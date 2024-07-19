@@ -1,0 +1,51 @@
+body{
+  background-color: #c58ef1;
+}
+
+h1,h2{
+  font-size: 4vh;
+  color: #5e278b;
+  font-family:"Raleway", sans-serif;
+}
+
+button {
+  padding: 8px 15px;
+  font-size: 1.7vh;
+  background-color: #5e278b;
+  color: #fff;
+  border: none;
+  border-radius: 0.4vh;
+  cursor: pointer;
+  margin-left: 1%;
+}
+
+#Remover{
+  margin-left: 1%;
+}
+
+#Editar{
+  margin-left: 1%;
+}
+
+::placeholder{
+  border-radius: 1vh;
+  font-family:"Raleway", sans-serif;
+}
+
+label{
+  font-size: 2vh;
+  color: #5e278b;
+  font-family:"Raleway", sans-serif;
+}
+
+input{
+  font-size: 2vh;
+  border: 0.1vh solid #bdafc9;
+  border-radius: 4px;
+}
+
+li{
+  font-size: 2vh;
+  font-family:"Raleway", sans-serif;
+  padding-bottom: 1%;
+}
